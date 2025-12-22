@@ -8,3 +8,4 @@ void loop() {
   digitalWrite(9, LOW);    // Strom AUS (Licht aus)
   delay(1000);             // 1 Sekunde warten
 }
+ 
