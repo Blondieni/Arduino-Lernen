@@ -7,6 +7,8 @@ void setup() {
 }
 
 void loop() {
+
+NEW SKETCH
   for (int i = 0; i <= 180; i++){
     meinMotor.write(i);
     delay(15);
